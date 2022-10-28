@@ -1,0 +1,3 @@
+<link rel="stylesheet" href="style/mainStyle.css">
+<link rel="stylesheet" href="style/mot.css">
+<link rel="stylesheet" href="style/bg.css">
